@@ -15,7 +15,7 @@
 <tr><td align="left">
 
 Every day, AI news explodes across Hacker News, Reddit, GitHub, RSS, Twitter/X, Telegram, OSS trending lists, and financial feeds.<br>
-This project turns that chaos into a usable creator workflow: collect signals, score what matters, enrich the context, write a readable summary, generate a Xiaohongshu-native post, create or attach a cover image, and publish through browser automation.
+This project turns that chaos into a usable creator workflow: collect signals, score what matters, enrich the context, write a readable summary, generate a Xiaohongshu-native(will support more social media platform in the future) post, create or attach a cover image, and publish through browser automation.
 
 </td></tr>
 </table>
@@ -44,7 +44,7 @@ Most news bots stop at "fetch links and ask an LLM to summarize them." This proj
 
 The result is not just an aggregator. It is an end-to-end content production system.
 
-### Recruiter Snapshot
+### Snapshot
 
 | Signal | Why it matters |
 | --- | --- |

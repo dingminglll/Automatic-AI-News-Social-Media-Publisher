@@ -20,7 +20,7 @@ This project turns that chaos into a usable creator workflow: collect signals, s
 </td></tr>
 </table>
 
-**A personal AI news desk + content editor + publishing robot.**
+**A personal AI news desk + content editor + publishing agent.**
 
 [What it does](#what-it-does) · [Pipeline](#pipeline) · [Tech stack](#tech-stack) · [Quick start](#quick-start) · [Configuration](#configuration) · [Project structure](#project-structure)
 
